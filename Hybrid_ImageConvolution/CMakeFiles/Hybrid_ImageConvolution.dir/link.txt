@@ -1,0 +1,1 @@
+/usr/bin/mpicc -g   CMakeFiles/Hybrid_ImageConvolution.dir/Hybrid_Main.c.o  -o Hybrid_ImageConvolution 

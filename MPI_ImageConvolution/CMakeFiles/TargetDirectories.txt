@@ -1,0 +1,3 @@
+/home/panos/CLionProjects/MPI_ImageConvolution/CMakeFiles/rebuild_cache.dir
+/home/panos/CLionProjects/MPI_ImageConvolution/CMakeFiles/edit_cache.dir
+/home/panos/CLionProjects/MPI_ImageConvolution/CMakeFiles/MPI_ImageConvolution.dir

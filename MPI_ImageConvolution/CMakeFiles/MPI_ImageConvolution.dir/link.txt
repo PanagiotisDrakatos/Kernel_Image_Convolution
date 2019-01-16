@@ -1,0 +1,1 @@
+/usr/bin/mpicc -g   CMakeFiles/MPI_ImageConvolution.dir/ImageConvolution_Main.c.o  -o MPI_ImageConvolution 
